@@ -2,7 +2,7 @@
 
 This repository contains a SystemVerilog implementation of a CNN accelerator
 based on the reconfigurable cluster-based Network-on-Chip (RecNoC) architecture
-presented in A. Firuzan, M. Modarressi and M. Daneshtalab, "Reconfigurable communication fabric for efficient implementation of neural networks," 2015 10th International Symposium on Reconfigurable Communication-centric Systems-on-Chip (ReCoSoC), Bremen, Germany, 2015, pp. 1-8, doi: 10.1109/ReCoSoC.2015.7238097. keywords: {Neural networks;Neurons;Topology;Network topology;Computer architecture;Program processors;Clustering algorithms;Network-on-Chip;Neural Networks;Hardware Accelerator;Reconfivuration},
+presented in "A. Firuzan, M. Modarressi and M. Daneshtalab, "Reconfigurable communication fabric for efficient implementation of neural networks," 2015 10th International Symposium on Reconfigurable Communication-centric Systems-on-Chip (ReCoSoC), Bremen, Germany, 2015, pp. 1-8, doi: 10.1109/ReCoSoC.2015.7238097."
 
 .
 
