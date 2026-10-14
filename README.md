@@ -21,7 +21,7 @@ Run the following command in the scripts directory:
 
     iverilog -g2012 -o sim ../tb/tb_cnn_accel.sv ../rtl/*.sv
     vvp sim
-
+for complete simulation guide please read SIMULATION_GUIDE.md
 ## Synthesis
 Tested with Xilinx Vivado 2023.2 targeting Artix-7 FPGA.
 
